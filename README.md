@@ -5,7 +5,7 @@
 Passionate about building scalable and high-performance backend solutions using .NET technologies. I focus on clean architecture, efficient database design, and optimizing application performance.
 
 ---
-
+ 
 ## 🔧 Technologies & Skills
 
 ### **Backend Development:**  
